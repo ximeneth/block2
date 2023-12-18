@@ -1,0 +1,10 @@
+[Adblock Plus 2.0]
+! Name: TEST
+! Expires: 365 days
+@@||youporn.com
+||youporn.com^
+||youporn.com
+youporn.com##a[href*="youporn.com"]
+youporn.com###youporn
+youporn.com##.youporn
+youporn.com##youporn
